@@ -17,7 +17,7 @@ contains the real-time visualization library of crazyflie sensor readings
 
 ## crazyflie_firmware folder
 contains the modified crazyflie firmware sources for hardware evaluation 
-as seen in the video
+as seen in the video https://www.youtube.com/watch?v=7vgxqLVDyUA
 
 ## data_analysis folder 
 contains the scripts and the data logs for the evaluation

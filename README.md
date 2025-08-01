@@ -1,4 +1,4 @@
-# Sensor Deprivation Attacks on UAVs
+# ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation
 Artifact related to the paper "ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation" in proceedings of the Usenix VehicleSec 2025
 
 ## ardupilot folder 

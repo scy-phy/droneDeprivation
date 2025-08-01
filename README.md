@@ -5,25 +5,31 @@ Artifact related to the paper "ConfuSense: Sensor Reconfiguration Attacks for St
 contains the ardupilot modified firmware sources for hardware evaluation
 
 ## IEMI testbed folder 
-contains the sources for IEMI injection on the the I2C testbed
+contains the sources for IEMI injection on the I2C testbed
+including  Figure 7 and Figure 12
 
 ## local attack testbed folder 
-contains the sources for local injection on the the I2C testbed 
+contains the sources for local injection on the I2C testbed 
+including Figure 5
 
 ## crazyflie folder
-contains the real time visualization library of crazyflie sensor readings 
+contains the real-time visualization library of crazyflie sensor readings 
 
 ## crazyflie_firmware folder
 contains the modified crazyflie firmware sources for hardware evaluation 
+as seen in the video
 
 ## data_analysis folder 
 contains the scripts and the data logs for the evaluation
+including Figure 8, Table 2, Table 3, Table 4, Table 5, Figure 13
 
 ## detection_eval folder
 constrains the data and scripts for the comparison with prior work detectors
+including the reulsts of Section 7.1
 
 ## attack synthesis folder
 contains the code for the attack synthesis framework 
+including Figure 10 and Figure 11
 
 
 When using the code or the data please cite our work

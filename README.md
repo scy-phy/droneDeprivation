@@ -1,6 +1,5 @@
 # ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation
-Artifact related to the paper "ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation" in proceedings of the Usenix VehicleSec 2025
-
+Artifact related to the paper "ConfuSense: Sensor Reconfiguration Attacks for Stealthy UAV Manipulation" in the Proceedings of the 2025 USENIX Symposium on Vehicle Security and Privacy (VehicleSec '25)
 ## ardupilot folder 
 contains the ardupilot modified firmware sources for hardware evaluation
 

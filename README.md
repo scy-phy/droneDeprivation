@@ -23,7 +23,7 @@ contains the scripts and the data logs for the evaluation
 including Figure 8, Table 2, Table 3, Table 4, Table 5, Figure 13
 
 ## detection_eval folder
-constrains the data and scripts for the comparison with prior work detectors
+contains the data and scripts for the comparison with prior work detectors
 including the reulsts of Section 7.1
 
 ## attack synthesis folder

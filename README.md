@@ -24,7 +24,7 @@ including Figure 8, Table 2, Table 3, Table 4, Table 5, Figure 13
 
 ## detection_eval folder
 contains the data and scripts for the comparison with prior work detectors
-including the reulsts of Section 7.1
+including the results of Section 7.1
 
 ## attack synthesis folder
 contains the code for the attack synthesis framework 
